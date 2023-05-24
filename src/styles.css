@@ -8,6 +8,11 @@
     background: linear-gradient(#121212, #212b46);
 }
 
+.container h1{
+
+    color:rgb(91, 134, 104);
+}
+
 .title {
 
     font-size: 85px;
